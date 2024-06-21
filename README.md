@@ -6,6 +6,10 @@
 <br>
 Este é um projeto destinado a configurar um ambiente NFS (Network File System) para compartilhamento de arquivos entre sistemas Linux. A configuração envolve a criação de um servidor NFS e a integração com clientes NFS para permitir o acesso compartilhado a diretórios e arquivos na rede.
 
+---
+- 🔍 Para mais detalhes, consulte a [Wiki do Projeto NFS-Setup](https://github.com/joanacristinacs/NFS-Setup/wiki).
+---
+
 ## Estrutura do Projeto
 
 - **Configuração do Ambiente**
@@ -59,4 +63,3 @@ Para mais informações ou dúvidas sobre o projeto, entre em contato:
 - GitHub: [joanacristinacs](https://github.com/joanacristinacs)
 
 ---
-
